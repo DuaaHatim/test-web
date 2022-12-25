@@ -145,13 +145,13 @@ button {
 	line-height: 1;
 }
 .top-right{
-	font-size:32px;
+	font-size:36px;
 	line-height: 1;
-	top: 35%;
+	top: 30%;
 }	
 .bottom-left {
 	font-size:22px;
-	bottom: 35%;
+	bottom: 30%;
 }
 button {
 	font-size: 18px;
@@ -175,6 +175,8 @@ div {
 .corner-right{
 	font-size:14px;
 	line-height: 1;
+	top: 12%;
+	right: 18%;
 }
 .top-right{
 	font-size:14px;
@@ -209,9 +211,11 @@ div {
 .container {
 	font-size: 18px;
 }	
-.top-right{
+.corner-right{
 	font-size:8px;
 	line-height: 1;
+	top: 13%;
+	right: 19%;
 }
 .top-right{
 	font-size:8px;
@@ -225,7 +229,11 @@ div {
 	font-size:7px;
 	bottom: 12%;
 }
-
+.corner-right{
+	font-size:8px;
+	line-height: 1;
+}	
+	
 button {
 	font-size: 9px;
 }
