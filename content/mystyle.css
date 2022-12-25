@@ -85,7 +85,7 @@ padding-left:2px;
 .middle-right {
 	position: absolute;
 	top: 38%;
-	right: 0%;
+	left: 30%;
 	transform: translate(-50%, -50%);
 	text-align: center;
 	line-height: 1.5
