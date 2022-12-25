@@ -85,7 +85,7 @@ padding-left:2px;
 .middle-right {
 	position: absolute;
 	top: 38%;
-	left: 30%;
+	right: 0%;
 	transform: translate(-50%, -50%);
 	text-align: center;
 	line-height: 1.5
@@ -162,10 +162,13 @@ div {
 .container {
 	font-size: 22px;
 }	
-.centered, .corner-right , .top-right{
+.corner-right , .top-right{
 	font-size:14px;
 	line-height: 1;
 }
+.centered{
+	font-size:14px;
+}	
 .bottom-left{
 	font-size:14px;
 }
@@ -189,9 +192,12 @@ div {
 .container {
 	font-size: 18px;
 }	
-.centered, .corner-right , .top-right{
+.corner-right , .top-right{
 	font-size:8px;
 	line-height: 1;
+}
+.centered{
+	font-size:8px;
 }
 .bottom-left{
 	font-size:7px;
