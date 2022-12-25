@@ -160,10 +160,11 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 28px;
+	font-size: 22px;
 }	
 .centered, .corner-right , .top-right{
-	font-size:20px;
+	font-size:14px;
+	line-height: 1;
 }
 .bottom-left{
 	font-size:14px;
@@ -188,6 +189,7 @@ div {
 }	
 .centered, .corner-right , .top-right{
 	font-size:8px;
+	line-height: 1;
 }
 .bottom-left{
 	font-size:7px;
