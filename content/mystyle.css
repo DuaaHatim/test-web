@@ -135,12 +135,12 @@ button {
 	height: auto;
 }*/
 .container {
-	font-size: 24px;
+	font-size: 36px;
 }	
-.centered {
-	font-size:22px;
+.centered, .corner-right , .top-right{
+	font-size:28px;
 }
-.bottom-left{
+.bottom-left {
 	font-size:18px;
 }
 button {
@@ -160,13 +160,13 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 18px;
+	font-size: 28px;
 }	
-.centered{
-	font-size:14px;
+.centered, .corner-right , .top-right{
+	font-size:20px;
 }
 .bottom-left{
-	font-size:11px;
+	font-size:14px;
 }
 button {
 	font-size: 12px;
@@ -184,9 +184,9 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 11px;
+	font-size: 18px;
 }	
-.centered{
+.centered, .corner-right , .top-right{
 	font-size:8px;
 }
 .bottom-left{
