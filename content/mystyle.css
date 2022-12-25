@@ -34,6 +34,18 @@ img {
 p {
 	text-align: center;
 }
+.pb{
+	text-align:right;
+}
+.Nb{
+	text-align:left;
+}
+
+table{
+width:100%;
+padding-right:2px;
+padding-left:2px;
+}
 
 .bottom-left {
 	position: absolute;
@@ -109,4 +121,86 @@ button {
 	font-size: 32px;
 	font-family: Raleway;
 	cursor: pointer;
+}
+
+@media only screen and (max-width: 1024px){
+
+/* body {
+	width: auto;
+	height: auto;
+} */
+
+/* div {
+	width: auto;
+	height: auto;
+}*/
+.container {
+	font-size: 24px;
+}	
+.centered {
+	font-size:22px;
+	top:40%;
+	right:52%;
+}
+.bottom-left{
+	font-size:18px;
+	left:10%;
+}
+button {
+	font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 620px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+.container {
+	font-size: 18px;
+}	
+.centered{
+	font-size:14px;
+	top:40%;
+	right:52%;
+}
+.bottom-left{
+	font-size:11px;
+	left:10%;
+}
+button {
+	font-size: 12px;
+}
+
+}
+@media only screen and (max-width: 300px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+.container {
+	font-size: 11px;
+}	
+.centered{
+	font-size:8px;
+	top:40$;
+	right:52%;
+}
+.bottom-left{
+	font-size:7px;
+}
+button {
+	font-size: 9px;
+}
 }
