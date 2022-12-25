@@ -171,6 +171,7 @@ div {
 }	
 .bottom-left{
 	font-size:14px;
+	bottom: 16%;
 }
 button {
 	font-size: 12px;
@@ -201,7 +202,9 @@ div {
 }
 .bottom-left{
 	font-size:7px;
+	bottom: 12%;
 }
+
 button {
 	font-size: 9px;
 }
