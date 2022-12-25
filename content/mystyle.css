@@ -139,12 +139,9 @@ button {
 }	
 .centered {
 	font-size:22px;
-	top:40%;
-	right:52%;
 }
 .bottom-left{
 	font-size:18px;
-	left:10%;
 }
 button {
 	font-size: 18px;
@@ -167,12 +164,9 @@ div {
 }	
 .centered{
 	font-size:14px;
-	top:40%;
-	right:52%;
 }
 .bottom-left{
 	font-size:11px;
-	left:10%;
 }
 button {
 	font-size: 12px;
@@ -194,8 +188,6 @@ div {
 }	
 .centered{
 	font-size:8px;
-	top:40$;
-	right:52%;
 }
 .bottom-left{
 	font-size:7px;
