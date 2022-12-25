@@ -123,13 +123,13 @@ button {
 	cursor: pointer;
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1500px){
 
 .container {
 	font-size: 40px;
 }	
 .centered{
-	font-size:32px;
+	font-size:28px;
 }
 .corner-right{
 	font-size:30px;
@@ -141,7 +141,7 @@ button {
 	top: 30%;
 }	
 .bottom-left {
-	font-size:22px;
+	font-size:18px;
 	bottom: 25%;
 }
 button {
