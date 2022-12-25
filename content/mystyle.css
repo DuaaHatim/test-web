@@ -162,10 +162,16 @@ div {
 .container {
 	font-size: 22px;
 }	
-.corner-right , .top-right{
+.corner-right{
 	font-size:14px;
 	line-height: 1;
 }
+.top-right{
+	font-size:14px;
+	line-height: 1;
+	top: 30%;
+}	
+	
 .centered{
 	font-size:14px;
 }	
@@ -193,10 +199,15 @@ div {
 .container {
 	font-size: 18px;
 }	
-.corner-right , .top-right{
+.top-right{
 	font-size:8px;
 	line-height: 1;
 }
+.top-right{
+	font-size:8px;
+	line-height: 1;
+	top: 26%;
+}	
 .centered{
 	font-size:8px;
 }
