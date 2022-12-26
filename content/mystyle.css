@@ -112,9 +112,6 @@ padding-left:2px;
 .tab {
 	display: none;
 }
-button:focus{
-	outline:2px solid black;
-}
 	
 button {
 	position: relative;
