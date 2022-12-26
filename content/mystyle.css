@@ -186,6 +186,33 @@ button {
 
 }
 
+@media only screen and (max-width: 940px){
+
+.container {
+	font-size: 36px;
+}	
+.centered{
+	font-size:32px;
+}
+.corner-right{
+	font-size:26px;
+	line-height: 1;
+}
+.top-right{
+	font-size:30px;
+	line-height: 1;
+	top: 30%;
+}	
+.bottom-left {
+	font-size:22px;
+	bottom: 20%;
+}
+button {
+	font-size: 18px;
+}
+
+}
+
 @media only screen and (max-width: 620px){
 body {
 	width: auto;
