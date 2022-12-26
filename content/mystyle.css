@@ -114,6 +114,7 @@ padding-left:2px;
 }
 button:focus{
 	outline:2px solid black;
+}
 	
 button {
 	position: relative;
